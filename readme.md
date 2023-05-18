@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/20c7597b-ac06-4adb-9803-d86391d42aed/deploy-status)](https://app.netlify.com/sites/radiant-selkie-fbda88/deploys)
